@@ -1,5 +1,6 @@
 # multipages-static-website-for-s3-bucket
-- multipages-static-website-for-s3-bucket-
+- multipages-static-website-for-s3-bucket
+- here in this repo we have only `source codes` for static website.
 
 
 ### Prerequisite
