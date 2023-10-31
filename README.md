@@ -4,7 +4,7 @@
 
 
 ### Prerequisite
-- you must have `S3 bucket` with `Static website hosting' enabled & also `bucket policy` for public access.
+- you must have `S3 bucket` with `Static website hosting` enabled & also `bucket policy` for public access.
 
 ### See how to clone this repo & copy `source codes` into `S3 bucket`
 ```
